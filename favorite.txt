@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 steak
 sushi
 pork
+=======
+harry potter
+lord ring
+pokemon
+>>>>>>> movies
